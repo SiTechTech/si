@@ -1,0 +1,4 @@
+C:\Users\si\anaconda3\envs\gpu_buy_bot
+C:\Users\si\anaconda3\envs\testenv
+C:\Users\si\anaconda3
+C:\Users\si\anaconda3\envs\test-env

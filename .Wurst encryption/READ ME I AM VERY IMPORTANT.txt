@@ -1,0 +1,7 @@
+DO NOT SHARE THESE FILES WITH ANYONE!
+They are encryption keys that protect your alt list file from being read by someone else.
+If someone is asking you to send these files, they are 100% trying to scam you.
+
+DO NOT EDIT, RENAME OR DELETE THESE FILES! (unless you know what you're doing)
+If you do, Wurst's Alt Manager can no longer read your alt list and will replace it with a blank one.
+In other words, YOUR ALT LIST WILL BE DELETED.

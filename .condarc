@@ -1,0 +1,4 @@
+channels:
+  - defaults
+auto_stack: 1
+changeps1: true
