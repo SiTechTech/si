@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<prefs>
+	<property key="starterLibs.welcome.steps">0</property>
+	<property key="starterLibs.welcome.statusLight">1</property>
+	<property key="starterLibs.welcome.version">1</property>
+	<property key="pluginmarketplace.search.steps">0</property>
+	<property key="pluginmarketplace.search.statusLight">1</property>
+	<property key="pluginmarketplace.search.version">1</property>
+	<property key="marketplace.onboarding.steps">CCDStock.Photos,CCDStock.Fonts,CCDPlugins,CCD3DI</property>
+	<property key="marketplace.onboarding.statusLight">0</property>
+	<property key="marketplace.onboarding.version">2</property>
+	<property key="ccd.fontmanagementpanel.welcome.steps">0</property>
+	<property key="ccd.fontmanagementpanel.welcome.statusLight">1</property>
+	<property key="ccd.fontmanagementpanel.welcome.version">1</property>
+	<property key="nuj.onboarding.steps">main.nuj.dialog</property>
+	<property key="nuj.onboarding.statusLight">0</property>
+	<property key="nuj.onboarding.version">1</property>
+	<property key="ccd.onboarding.assets.steps">yourWorkMain1,cloudDocs,yourLibs,sharedWithYou</property>
+	<property key="ccd.onboarding.assets.statusLight">0</property>
+	<property key="ccd.onboarding.assets.version">2</property>
+	<property key="nuj.empty.onboarding.version">0</property>
+</prefs>
