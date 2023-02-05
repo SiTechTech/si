@@ -1,0 +1,32 @@
+{
+    "employee": [
+        {
+            "id": 0,
+            "name": "Sayyed Jennings",
+            "age": 21,  
+            "status": "warehouse manager",
+            "addresses":[
+                {
+                    "addressid": "2046",
+                    "street": "tucker",
+                    "state": "ga",
+                    "zipcode":"30084"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Chase Easter",
+            "age": 20,  
+            "status": "helper",
+            "addresses":[
+                {
+                    "addressid": "2046",
+                    "street": "tucker",
+                    "state": "ga",
+                    "zipcode":"30084"
+                }
+            ]
+        }
+   ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "apitests",
+  "version": "1.0.0",
+  "description": "workproject",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ogdb.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SiTechTech",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Job-CTG"
+  },
+  "keywords": [
+    "Job-Project"
+  ]
+}
